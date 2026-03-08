@@ -39,6 +39,12 @@ Feel free to reach out via email or WeChat — always happy to connect!
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=kunjie-lin&style=flat-square&label=Profile+Views&color=blue)
+
+</div>
+
 | <a href="https://github.com/kunjie-lin"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=kunjie-lin&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR" alt="Kunjie Lin's github stats" /></a> | <a href="https://github.com/kunjie-lin"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kunjie-lin&theme=buefy&hide_border=true&layout=compact&include_orgs=true&role=OWNER,COLLABORATOR" /></a> |
 | ------------- | ------------- |
 
