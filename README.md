@@ -32,14 +32,13 @@ Feel free to reach out if you think there's a good fit!
 Feel free to reach out via email or WeChat — always happy to connect!
 
 - 📧 linkunjie@stu.xmu.edu.cn
-- 💬 WeChat
+- 💬 WeChat: `lkj20020515`
+- 🌐 [Personal Homepage](https://your-homepage-url.com)
 
-<div align="center"><a href="assets/weChat.jpg"><img src="assets/weChat.jpg" width="120" /></a></div>
+<div align="center"><a href="assets/weChat.jpg"><img src="assets/weChat.jpg" width="300" /></a></div>
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunjie-lin&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunjie-lin&layout=compact&hide_border=true" height="150" />
-</div>
+| <a href="https://github.com/kunjie-lin"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=kunjie-lin&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR" alt="Kunjie Lin's github stats" /></a> | <a href="https://github.com/kunjie-lin"><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kunjie-lin&theme=buefy&hide_border=true&layout=compact&include_orgs=true&role=OWNER,COLLABORATOR" /></a> |
+| ------------- | ------------- |
 
