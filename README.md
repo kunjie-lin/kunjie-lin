@@ -20,12 +20,42 @@ Feel free to reach out if you think there's a good fit!
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stars | Links |
-|---------|-------------|-------|-------|
-| [**JarvisX-Cowork**](https://github.com/LYL1015/JarvisX-Cowork) | Personal AI creative assistant integrating the full Jarvis family for everyone. *Jan 2026* | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisX-Cowork?style=flat-square) | |
-| [**JarvisEvo**](https://github.com/LYL1015/JarvisEvo) | Self-evolving photo editing agent with synergistic editor-evaluator optimization. [*CVPR 2026*](https://arxiv.org/pdf/2511.23002) | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisEvo?style=flat-square) | [🌐 Demo](https://jarvisevo.vercel.app/) |
-| [**JarvisArt**](https://github.com/LYL1015/JarvisArt) | MLLM-driven intelligent photo retouching agent operating in Lightroom with 200+ actions. [*NeurIPS 2025*](https://arxiv.org/pdf/2506.17612) | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisArt?style=flat-square) | [🌐 Demo](https://jarvisart.vercel.app/) |
-| [**JarvisIR**](https://github.com/LYL1015/JarvisIR) | Intelligent image restoration agent for elevating autonomous driving perception under complex real-world degradations. [*CVPR 2025*](https://arxiv.org/pdf/2504.04158) | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisIR?style=flat-square) | |
+<table>
+<thead>
+<tr>
+<th width="15%">Project</th>
+<th width="50%">Description</th>
+<th width="15%">Stars</th>
+<th width="20%">Links</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/LYL1015/JarvisX-Cowork"><strong>JarvisX-Cowork</strong></a></td>
+<td>Personal AI creative assistant integrating the full Jarvis family for everyone. <em>Jan 2026</em></td>
+<td><img src="https://img.shields.io/github/stars/LYL1015/JarvisX-Cowork?style=flat-square" alt="Stars"></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="https://github.com/LYL1015/JarvisEvo"><strong>JarvisEvo</strong></a></td>
+<td>Self-evolving photo editing agent with synergistic editor-evaluator optimization. <a href="https://arxiv.org/pdf/2511.23002"><em>CVPR 2026</em></a></td>
+<td><img src="https://img.shields.io/github/stars/LYL1015/JarvisEvo?style=flat-square" alt="Stars"></td>
+<td><a href="https://jarvisevo.vercel.app/">🌐 Demo</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/LYL1015/JarvisArt"><strong>JarvisArt</strong></a></td>
+<td>MLLM-driven intelligent photo retouching agent operating in Lightroom with 200+ actions. <a href="https://arxiv.org/pdf/2506.17612"><em>NeurIPS 2025</em></a></td>
+<td><img src="https://img.shields.io/github/stars/LYL1015/JarvisArt?style=flat-square" alt="Stars"></td>
+<td><a href="https://jarvisart.vercel.app/">🌐 Demo</a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/LYL1015/JarvisIR"><strong>JarvisIR</strong></a></td>
+<td>Intelligent image restoration agent for elevating autonomous driving perception under complex real-world degradations. <a href="https://arxiv.org/pdf/2504.04158"><em>CVPR 2025</em></a></td>
+<td><img src="https://img.shields.io/github/stars/LYL1015/JarvisIR?style=flat-square" alt="Stars"></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 📄 Resume
 
