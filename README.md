@@ -20,12 +20,18 @@ Feel free to reach out if you think there's a good fit!
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stars |
-|---------|-------------|-------|
-| [**JarvisX-Cowork**](https://github.com/LYL1015/JarvisX-Cowork) | Personal AI creative assistant integrating the full Jarvis family for everyone. *Jan 2026* | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisX-Cowork?style=flat-square) |
-| [**JarvisEvo**](https://github.com/LYL1015/JarvisEvo) | Self-evolving photo editing agent with synergistic editor-evaluator optimization. *CVPR 2026* | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisEvo?style=flat-square) |
-| [**JarvisArt**](https://github.com/LYL1015/JarvisArt) | MLLM-driven intelligent photo retouching agent operating in Lightroom with 200+ actions. *NeurIPS 2025* | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisArt?style=flat-square) |
-| [**JarvisIR**](https://github.com/LYL1015/JarvisIR) | Intelligent image restoration agent for elevating autonomous driving perception under complex real-world degradations. *CVPR 2025* | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisIR?style=flat-square) |
+| Project | Description | Stars | Links |
+|---------|-------------|-------|-------|
+| [**JarvisX-Cowork**](https://github.com/LYL1015/JarvisX-Cowork) | Personal AI creative assistant integrating the full Jarvis family for everyone. *Jan 2026* | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisX-Cowork?style=flat-square) | |
+| [**JarvisEvo**](https://github.com/LYL1015/JarvisEvo) | Self-evolving photo editing agent with synergistic editor-evaluator optimization. [*CVPR 2026*](https://arxiv.org/pdf/2511.23002) | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisEvo?style=flat-square) | [🌐 Demo](https://jarvisevo.vercel.app/) |
+| [**JarvisArt**](https://github.com/LYL1015/JarvisArt) | MLLM-driven intelligent photo retouching agent operating in Lightroom with 200+ actions. [*NeurIPS 2025*](https://arxiv.org/pdf/2506.17612) | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisArt?style=flat-square) | [🌐 Demo](https://jarvisart.vercel.app/) |
+| [**JarvisIR**](https://github.com/LYL1015/JarvisIR) | Intelligent image restoration agent for elevating autonomous driving perception under complex real-world degradations. [*CVPR 2025*](https://arxiv.org/pdf/2504.04158) | ![Stars](https://img.shields.io/github/stars/LYL1015/JarvisIR?style=flat-square) | |
+
+## 📄 Resume
+
+If you're interested in my background and experience, feel free to download my CV:
+
+👉 [Download Resume (PDF)](assets/KunjieLin_Resume.pdf)
 
 ## 📫 Contact
 
@@ -33,7 +39,6 @@ Feel free to reach out via email or WeChat — always happy to connect!
 
 - 📧 linkunjie@stu.xmu.edu.cn
 - 💬 WeChat: `lkj20020515`
-- 🌐 [Personal Homepage](https://your-homepage-url.com)
 
 <div align="center"><a href="assets/weChat.jpg"><img src="assets/weChat.jpg" width="300" /></a></div>
 
