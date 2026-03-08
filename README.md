@@ -25,8 +25,8 @@ Feel free to reach out if you think there's a good fit!
 <tr>
 <th width="15%">Project</th>
 <th width="55%">Description</th>
-<th width="15%">Stars</th>
-<th width="15%">Links</th>
+<th width="10%">Stars</th>
+<th width="10%">Links</th>
 </tr>
 </thead>
 <tbody>
